@@ -1,4 +1,4 @@
-# Day 2 Questions
+# Day 1 Questions
 
 **Q1. Features of Kernel?**
 
